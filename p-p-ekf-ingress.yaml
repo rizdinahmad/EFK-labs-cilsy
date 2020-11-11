@@ -10,7 +10,7 @@ metadata:
 # nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
 spec:
   rules:
-  - host: efk.aushafy.my.id
+  - host: efk.rizdin.online
 ## Service Location n Characters
     http:
       paths:
